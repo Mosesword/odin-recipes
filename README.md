@@ -1,1 +1,1 @@
-# odin-recipes
+Ethiopian dorowet recipes
